@@ -1,1 +1,1 @@
-# Coursera_Applied_Plotting-Cherting
+# Coursera_Applied_Plotting-Charting
